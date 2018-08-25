@@ -1,0 +1,14 @@
+This work is derived from Meccano's MeccaBrain open source library at:
+  http://www.meccano.com/meccanoid-opensource
+
+The library has been reworked to get rid of the features not supported by the Meccano M.A.X. It has also been enhanced to support most of the features of the Meccano M.A.X.
+
+The open source licence for Meccano's meccanoid open source Arduino library has not been specified. As this is a derived work, the same license applies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
