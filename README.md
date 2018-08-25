@@ -14,7 +14,7 @@ An Arduino library to control the Meccano M.A.X. robot:
 * Arduino Leonardo compatible
 
 ---
-![MeccaChannel's UML class  diagram](https://github.com/MrDreamBot/MeccaChannel/MaxClassDiagram.png)
+![MeccaChannel's UML class  diagram](https://github.com/MrDreamBot/MeccaChannel/blob/master/MaxClassDiagram.png)
 ---
 
 ### INSTALLATION INSTRUCTIONS:
