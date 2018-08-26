@@ -1,4 +1,4 @@
-# MeccaChannel
+# MeccaChannel - An Arduino Library for the Mecanno M.A.X. Robot
 ### Arduino Library to control the Mecanno M.A.X. Robot
 #### Version 0.9.0: 2018-08-25
 
